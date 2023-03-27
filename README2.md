@@ -1,4 +1,5 @@
 # projeto angular
-- porjeto da disciplina de angular
-+
-+commit inicial do projeto
+ porjeto da disciplina de angular
+
+ ajudei oanderson
+commit inicial do projeto
